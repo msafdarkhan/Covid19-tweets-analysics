@@ -36,7 +36,25 @@ and Word [world-cities-datasets](https://www.kaggle.com/viswanathanc/world-citie
 ```
 
 ## Usage of This Project
+This Open source Project is for best visualization of Large Data Over Geograpgical Data, Mapping of 2 Datasets, Remove and Handle NaN/ Null Values and Get Unique Data Results.
+This Project is a demonstration of Covid-19 Dataset Task 
+> **Geo Graphical Analysics and Visualization of Covid-19 Tweets**
+"source Kaggle" 
 
+<br>
+<img src="https://raw.githubusercontent.com/msafdarkhan/Covid19-tweets-analysics/main/Images/Top%2010%20Countries%20With%20Most%20Tweets.png" width="100%" alt="Most Tweets">
+
+<br>
+<img src="https://github.com/msafdarkhan/Covid19-tweets-analysics/blob/main/Images/10%20Countries%20With%20Lest%20Tweets.png?raw=true" width="100%" alt="Less Tweets">
+
+<br>
+<img src="https://raw.githubusercontent.com/msafdarkhan/Covid19-tweets-analysics/main/Images/Tweets%20Per%20country%20Limit%20By%2015%20With%20Gediant%20View.png" width="100%" alt="Most Tweets Visal 2">
+
+
+<br>
+
+<center><small>Geo Map Showing <b>193</b> Locations over <b>77910</b> Valid Tweets of <b>179108</b> Data rows</small></center>
+<img src="https://raw.githubusercontent.com/msafdarkhan/Covid19-tweets-analysics/main/Images/Clickable%20Geo%20Map%202%20-%20Inner.png" width="100%" alt="Geo Map">
 
 ## Contects Covred in this Project
 1. Data and library loading
