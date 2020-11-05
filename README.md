@@ -10,4 +10,25 @@ and Word [world-cities-datasets](https://www.kaggle.com/viswanathanc/world-citie
  - https://www.kaggle.com/viswanathanc/world-cities-datasets
  
  ____________________
+## About Me
+
  I'm [Safdar Khan](https://www.safdarkhan.ml) a software Engineer who is working on AI and Datascience. If you face any problem you can [contact](mailto:safdarkhanofficial@gmail.com) with me.
+
+## File Structure
+```
+
+```
+
+## Usage of This Project
+Contects Covred in this Project
+1. Data and library loading
+2. Visualizing and Understading of Data
+3. Preprocessing/Data Cleaning
+4. Data Viualization
+   - Valid Tweets
+   - Top 10 Countries with Most Tweets
+   - 10 Countries with Least Tweets
+   - Top 15 Countries with Most Tweets Diffrent
+   - Representation
+   - Geo-MAP
+5. Conclusion 
