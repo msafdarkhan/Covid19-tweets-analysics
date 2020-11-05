@@ -1,4 +1,4 @@
-# Covid19-tweets-analysics
+# Covid19-Geographical-tweets-analysics
 COVID19 Tweets 🌎 Geographical Deep Analysis <br>
 [Visit My Kaggle Notebook Now](https://www.kaggle.com/msafdarkhan/covid19-tweets-geographical-deep-analysis)
 
